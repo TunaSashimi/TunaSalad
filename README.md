@@ -20,7 +20,7 @@ Step 2. Add the dependency
 	
 Attention
 
-If the attributes defined in the TunaSushi library and the attributes defined in other libraries have the same name and different types, compilation errors will occur.The solution is to define an attribute with the same name in the attr of the main project, but the type contains both.
+If the attributes defined in the TunaSalad library and the attributes defined in other libraries have the same name and different types, compilation errors will occur.The solution is to define an attribute with the same name in the attr of the main project, but the type contains both.
 
 For example, The content attribute in TView in the TunaSushi library is string, and the content attribute in the constraintlayout library is reference.
 
