@@ -3,7 +3,7 @@
 [![Release Version](https://img.shields.io/github/v/release/TunaSashimi/TunaSalad.svg)](https://github.com/TunaSashimi/TunaSalad/releases)
 [![Code Size](https://img.shields.io/github/languages/code-size/TunaSashimi/TunaSalad)](https://github.com/TunaSashimi/TunaSalad)
 [![Last Commit](https://img.shields.io/github/last-commit/TunaSashimi/TunaSalad)](https://github.com/TunaSashimi/TunaSalad/commits)
-[![license](https://img.shields.io/github/license/TunaSashimi/TunaSushi)](https://github.com/TunaSashimi/TunaSalad/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/TunaSashimi/TunaSalad)](https://github.com/TunaSashimi/TunaSalad/blob/master/LICENSE)
 
 ## Getting started
 
