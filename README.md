@@ -5,6 +5,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/TunaSashimi/TunaSalad)](https://github.com/TunaSashimi/TunaSalad/commits)
 [![license](https://img.shields.io/github/license/TunaSashimi/TunaSalad)](https://github.com/TunaSashimi/TunaSalad/blob/master/LICENSE)
 
+https://img.shields.io/github/license/TunaSashimi/TunaSalad
+
 ## Getting started
 
 Step 1. Add the JitPack repository to your build file
