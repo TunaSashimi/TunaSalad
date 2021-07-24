@@ -24,7 +24,7 @@ Step 2. Add the dependency
   
 ```gradle
   	dependencies {
-	        implementation 'com.github.TunaSashimi:TunaSalad:1.0.01'
+	        implementation 'com.github.TunaSashimi:TunaSalad:1.0.02'
 	}
 ```
 	
