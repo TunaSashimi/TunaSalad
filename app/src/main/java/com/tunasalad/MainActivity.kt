@@ -1,12 +1,11 @@
-package com.tunasalad;
-import android.app.Activity;
-import android.os.Bundle;
+package com.tunasalad
 
-public class MainActivity extends Activity {
+import android.app.Activity
+import android.os.Bundle
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+class MainActivity : Activity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
     }
 }
