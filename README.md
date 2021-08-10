@@ -24,7 +24,7 @@ Step 2. Add the dependency
   
 ```gradle
   	dependencies {
-	        implementation 'com.github.TunaSashimi:TunaSalad:1.0.02'
+	        implementation 'com.github.TunaSashimi:TunaSalad:1.0.03'
 	}
 ```
 	
@@ -36,7 +36,7 @@ For example, The content attribute in TView in the TunaSalad library is string, 
 
 When the types of attributes with the same name are inconsistent, you can configure a single content in the project, and the attribute is the union of the two.such as below.
 
-```java
+```xml
 	<attr name="content" format="reference|string" />
 ```
 
